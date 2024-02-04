@@ -1,0 +1,28 @@
+﻿Q1.What is HTML?
+
+
+Ans 1.  HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page.
+
+
+Q2.What is CSS?
+
+
+Ans 2. Cascading Style Sheets (CSS) is a coding language that defines how a website looks and is laid out in a webpage. It's a fundamental part of web design, along with HTML. 
+
+
+Q3.What is the difference between front-end and back-end development?
+
+
+Ans 3. Front-end development focuses on creating user interfaces that are well-designed, responsive, and fully functional. Back-end development involves creating reliable architecture that supports front-end development.
+
+
+Q4.What is JavaScript?
+
+
+Ans 4. JavaScript is a scripting or programming language that allows you to implement complex features on web pages . It allows user to create dynamically updated content, use animations, pop-up menus, click buttons, etc.
+
+
+Q5.What is a responsive web design?
+
+
+Ans 5. Responsive Web Design is basically about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, to make it look good on all devices. The Grids and the images are required for responsive web design.
